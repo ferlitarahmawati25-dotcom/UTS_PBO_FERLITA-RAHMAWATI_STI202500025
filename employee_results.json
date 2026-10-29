@@ -1,0 +1,242 @@
+[
+    {
+        "ID": "EMP-001",
+        "Nama": "Budi Pratama",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 8500000.0,
+        "Bonus": 425000.0,
+        "Total Gaji": 9775000.0
+    },
+    {
+        "ID": "EMP-002",
+        "Nama": "Siti Rahma",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 6000000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 6000000.0
+    },
+    {
+        "ID": "EMP-003",
+        "Nama": "Andi Wijaya",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 12500000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 13750000.0
+    },
+    {
+        "ID": "EMP-004",
+        "Nama": "Dewi Lestari",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 7200000.0,
+        "Bonus": 360000.0,
+        "Total Gaji": 8280000.0
+    },
+    {
+        "ID": "EMP-005",
+        "Nama": "Eko Prasetyo",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 5500000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 5500000.0
+    },
+    {
+        "ID": "EMP-006",
+        "Nama": "Fajar Nugraha",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 9800000.0,
+        "Bonus": 980000.0,
+        "Total Gaji": 11760000.0
+    },
+    {
+        "ID": "EMP-007",
+        "Nama": "Gita Gutawa",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 6800000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 6800000.0
+    },
+    {
+        "ID": "EMP-008",
+        "Nama": "Hendra Kurniawan",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 11000000.0,
+        "Bonus": 550000.0,
+        "Total Gaji": 12650000.0
+    },
+    {
+        "ID": "EMP-009",
+        "Nama": "Indah Permata",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 8000000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 8800000.0
+    },
+    {
+        "ID": "EMP-010",
+        "Nama": "Joko Widodo",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 5000000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 5000000.0
+    },
+    {
+        "ID": "EMP-011",
+        "Nama": "Kiki Amalia",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 7700000.0,
+        "Bonus": 385000.0,
+        "Total Gaji": 8855000.0
+    },
+    {
+        "ID": "EMP-012",
+        "Nama": "Lukman Hakim",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 13500000.0,
+        "Bonus": 2025000.0,
+        "Total Gaji": 16875000.0
+    },
+    {
+        "ID": "EMP-013",
+        "Nama": "Maya Putri",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 6200000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 6200000.0
+    },
+    {
+        "ID": "EMP-014",
+        "Nama": "Nurdin Hasan",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 8900000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 9790000.0
+    },
+    {
+        "ID": "EMP-015",
+        "Nama": "Oki Setiana",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 9500000.0,
+        "Bonus": 475000.0,
+        "Total Gaji": 10925000.0
+    },
+    {
+        "ID": "EMP-016",
+        "Nama": "Panji Petualang",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 5800000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 5800000.0
+    },
+    {
+        "ID": "EMP-017",
+        "Nama": "Qory Sandioriva",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 10500000.0,
+        "Bonus": 1050000.0,
+        "Total Gaji": 12600000.0
+    },
+    {
+        "ID": "EMP-018",
+        "Nama": "Rian D'Masiv",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 7000000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 7700000.0
+    },
+    {
+        "ID": "EMP-019",
+        "Nama": "Siska Kohl",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 14000000.0,
+        "Bonus": 2100000.0,
+        "Total Gaji": 17500000.0
+    },
+    {
+        "ID": "EMP-020",
+        "Nama": "Tora Sudiro",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 6400000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 6400000.0
+    },
+    {
+        "ID": "EMP-021",
+        "Nama": "Uus Kartajaya",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 8300000.0,
+        "Bonus": 415000.0,
+        "Total Gaji": 9545000.0
+    },
+    {
+        "ID": "EMP-022",
+        "Nama": "Vina Panduwinata",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 9100000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 10010000.0
+    },
+    {
+        "ID": "EMP-023",
+        "Nama": "Wendra Pratama",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 5300000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 5300000.0
+    },
+    {
+        "ID": "EMP-024",
+        "Nama": "Xavier Marks",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 11800000.0,
+        "Bonus": 1180000.0,
+        "Total Gaji": 14160000.0
+    },
+    {
+        "ID": "EMP-025",
+        "Nama": "Yuni Shara",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 7600000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 8360000.0
+    },
+    {
+        "ID": "EMP-026",
+        "Nama": "Zainal Abidin",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 6500000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 6500000.0
+    },
+    {
+        "ID": "EMP-027",
+        "Nama": "Ahmad Dhani",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 15000000.0,
+        "Bonus": 2250000.0,
+        "Total Gaji": 18750000.0
+    },
+    {
+        "ID": "EMP-028",
+        "Nama": "Bella Saphira",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 8200000.0,
+        "Bonus": 410000.0,
+        "Total Gaji": 9430000.0
+    },
+    {
+        "ID": "EMP-029",
+        "Nama": "Cinta Laura",
+        "Status": "PermanentEmployee",
+        "Gaji Pokok": 10000000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 11000000.0
+    },
+    {
+        "ID": "EMP-030",
+        "Nama": "Deddy Corbuzier",
+        "Status": "ContractEmployee",
+        "Gaji Pokok": 6100000.0,
+        "Bonus": 0.0,
+        "Total Gaji": 6100000.0
+    }
+]

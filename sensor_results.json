@@ -1,0 +1,242 @@
+[
+    {
+        "ID Sensor": "SNS-A01",
+        "Lokasi": "Boiler Room",
+        "Suhu": 88.5,
+        "Status": "DANGER",
+        "Operator": 101,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A02",
+        "Lokasi": "Assembly Line",
+        "Suhu": 42.0,
+        "Status": "NORMAL",
+        "Operator": 102,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A03",
+        "Lokasi": "Server Room",
+        "Suhu": 95.2,
+        "Status": "DANGER",
+        "Operator": null,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A04",
+        "Lokasi": "Chemical Lab",
+        "Suhu": 73.1,
+        "Status": "WARNING",
+        "Operator": 104,
+        "Tindakan": "Periksa dan pantau suhu"
+    },
+    {
+        "ID Sensor": "SNS-A05",
+        "Lokasi": "Boiler Room",
+        "Suhu": 91.0,
+        "Status": "DANGER",
+        "Operator": 101,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A06",
+        "Lokasi": "Warehouse",
+        "Suhu": 31.5,
+        "Status": "NORMAL",
+        "Operator": null,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A07",
+        "Lokasi": "Turbine House",
+        "Suhu": 87.3,
+        "Status": "DANGER",
+        "Operator": 107,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A08",
+        "Lokasi": "Assembly Line",
+        "Suhu": 45.8,
+        "Status": "NORMAL",
+        "Operator": 102,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A09",
+        "Lokasi": "Server Room",
+        "Suhu": 89.9,
+        "Status": "DANGER",
+        "Operator": 109,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A10",
+        "Lokasi": "Data Center",
+        "Suhu": 24.0,
+        "Status": "NORMAL",
+        "Operator": null,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A11",
+        "Lokasi": "Boiler Room",
+        "Suhu": 96.4,
+        "Status": "DANGER",
+        "Operator": 101,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A12",
+        "Lokasi": "Chemical Lab",
+        "Suhu": 68.0,
+        "Status": "WARNING",
+        "Operator": 104,
+        "Tindakan": "Periksa dan pantau suhu"
+    },
+    {
+        "ID Sensor": "SNS-A13",
+        "Lokasi": "Turbine House",
+        "Suhu": 92.1,
+        "Status": "DANGER",
+        "Operator": null,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A14",
+        "Lokasi": "Warehouse",
+        "Suhu": 29.8,
+        "Status": "NORMAL",
+        "Operator": 114,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A15",
+        "Lokasi": "Server Room",
+        "Suhu": 86.0,
+        "Status": "DANGER",
+        "Operator": 109,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A16",
+        "Lokasi": "Assembly Line",
+        "Suhu": 41.2,
+        "Status": "NORMAL",
+        "Operator": 102,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A17",
+        "Lokasi": "Boiler Room",
+        "Suhu": 99.5,
+        "Status": "DANGER",
+        "Operator": 101,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A18",
+        "Lokasi": "Data Center",
+        "Suhu": 22.5,
+        "Status": "NORMAL",
+        "Operator": null,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A19",
+        "Lokasi": "Turbine House",
+        "Suhu": 88.0,
+        "Status": "DANGER",
+        "Operator": 107,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A20",
+        "Lokasi": "Chemical Lab",
+        "Suhu": 75.4,
+        "Status": "WARNING",
+        "Operator": null,
+        "Tindakan": "Periksa dan pantau suhu"
+    },
+    {
+        "ID Sensor": "SNS-A21",
+        "Lokasi": "Boiler Room",
+        "Suhu": 90.2,
+        "Status": "DANGER",
+        "Operator": 101,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A22",
+        "Lokasi": "Assembly Line",
+        "Suhu": 39.9,
+        "Status": "NORMAL",
+        "Operator": 122,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A23",
+        "Lokasi": "Server Room",
+        "Suhu": 93.7,
+        "Status": "DANGER",
+        "Operator": 109,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A24",
+        "Lokasi": "Warehouse",
+        "Suhu": 30.0,
+        "Status": "NORMAL",
+        "Operator": null,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A25",
+        "Lokasi": "Turbine House",
+        "Suhu": 87.8,
+        "Status": "DANGER",
+        "Operator": 107,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A26",
+        "Lokasi": "Data Center",
+        "Suhu": 25.1,
+        "Status": "NORMAL",
+        "Operator": 126,
+        "Tindakan": "Kondisi normal"
+    },
+    {
+        "ID Sensor": "SNS-A27",
+        "Lokasi": "Boiler Room",
+        "Suhu": 97.0,
+        "Status": "DANGER",
+        "Operator": null,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A28",
+        "Lokasi": "Chemical Lab",
+        "Suhu": 71.3,
+        "Status": "WARNING",
+        "Operator": 104,
+        "Tindakan": "Periksa dan pantau suhu"
+    },
+    {
+        "ID Sensor": "SNS-A29",
+        "Lokasi": "Server Room",
+        "Suhu": 85.5,
+        "Status": "DANGER",
+        "Operator": 109,
+        "Tindakan": "Alarm dan pemeriksaan segera"
+    },
+    {
+        "ID Sensor": "SNS-A30",
+        "Lokasi": "Assembly Line",
+        "Suhu": 43.5,
+        "Status": "NORMAL",
+        "Operator": null,
+        "Tindakan": "Kondisi normal"
+    }
+]
